@@ -1,5 +1,3 @@
 ### Hi there 👋
 
-I'm learning Front End Development.
-
-Open for work :computer:
+I'm a web developer now.
