@@ -1,0 +1,10 @@
+In order to change the cursor when hovering the SVG image, a <style/> tag was added within the <svg/> file itself. Example:
+
+<svg width="x" height="y">
+	...
+<style>
+	svg {cursor: pointer; }
+</style>
+</svg>
+
+This will also make sure that the cursor will show when hovering the "background" of the svg, not just the individual letters and shapes.
