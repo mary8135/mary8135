@@ -8,3 +8,4 @@ In order to change the cursor when hovering the SVG image, a <style/> tag was ad
 </svg>
 
 This will also make sure that the cursor will show when hovering the "background" of the svg, not just the individual letters and shapes.
+This is however not working for custom url cursors.
